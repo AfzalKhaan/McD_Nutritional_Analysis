@@ -4,9 +4,9 @@
 This repository contains Python code to analyze the nutritional content of McDonald's menu items using a provided dataset. The analysis includes data preprocessing, exploratory data analysis, visualization, and deriving nutrition-based insights.
 
 ## Contents
-- `mcdonalds_menu.csv`: Dataset containing nutritional information of McDonald's menu items.
+- Nutrical Dataset.csv: Dataset containing nutritional information of McDonald's menu items.
 - Jupyter Notebook or Python script: detailing each step of the data analysis and visualization.
-- `README.md`: This file, containing information about the project and instructions.
+- README.md: This file, containing information about the project and instructions.
 
 ## Requirements
 - Python 3.x
